@@ -12,7 +12,7 @@ This project focuses on classifying heart disease based on various features usin
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -51,7 +51,7 @@ pip install numpy pandas matplotlib scikit-learn
 Download the heart disease dataset and place it in the project directory.
 
 
-##Usage
+## Usage
 
 
 Open the Python script heart_disease_classification.py in your preferred development environment.
@@ -69,7 +69,7 @@ python heart_disease_classification.py
 The script will generate various plots and display the accuracy scores of the classification algorithms.
 
 
-##Results
+## Results
 
 
 The results of the classification algorithms are displayed through plots and printed scores. The following results are obtained:
@@ -81,7 +81,7 @@ Support Vector Machine Classifier: The optimal kernel function and the correspon
 Random Forest Classifier: The optimal number of estimators (decision trees) and the corresponding accuracy score are determined. The scores are visualized using a bar chart.
 
 
-##Contributing
+## Contributing
 
 
 Contributions to the project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
